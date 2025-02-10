@@ -14,9 +14,9 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjitsahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css" alt="Top Languages"/> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjawalsingh25&show_icons=true&locale=en&layout=compact" alt="ujjawalsingh25" />
     <!-- <img align="center" alt="coding" width="250" src="https://media.licdn.com/dms/image/v2/C4E12AQFS2orslcG6VA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1601654296846?e=1744848000&v=beta&t=KWmiOJATSUaoVmiaYWDA-LmNnC-Nvt2_gw4x8BkAQVU"/> -->
-    <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ujjawalsingh25&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/> -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ujjawalsingh25&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
-    <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ujjawalsingh25&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+<!--     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ujjawalsingh25&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/> -->
+<!--     <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/> -->
 </p>
 
 <div align="center">
