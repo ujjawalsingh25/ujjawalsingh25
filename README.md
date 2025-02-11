@@ -3,13 +3,14 @@
     A passionate Full Stack Developer | Exploring Web and Android development
 </h3>
 <h3 align="center">
-    <img width="auto" alt="Typing" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Web+Developer;App+Developer" />
+    <img width="auto" alt="Typing" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%7E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Web+Developer;App+Developer" />
+<!--     <img width="auto" alt="Typing" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Web+Developer;App+Developer" /> -->
 </h3>
 
 
 <div align="center"> 
     <a href="#">
-      <img src="https://img.shields.io/badge/+91--7903133349-8A2BE2?style=for-the-badge&logo=google%20analytics&logoColor=green" />
+      <img src="https://img.shields.io/badge/+91 7903133349-8A2BE2?style=for-the-badge&logo=google%20analytics&logoColor=green" />
     </a>
     <a href="https://www.linkedin.com/in/ujjawal-kumar-827ba4265/" target="_blank">
     <a href="mailto:ujjawalsingh800007@gmail.com">
@@ -46,7 +47,7 @@
     <!-- <img alt="coding" width="250" src="https://media.licdn.com/dms/image/v2/C4E12AQFS2orslcG6VA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1601654296846?e=1744848000&v=beta&t=KWmiOJATSUaoVmiaYWDA-LmNnC-Nvt2_gw4x8BkAQVU"/> -->
     <!-- <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/> -->
     <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ujjawalsingh25&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="MostCommitsLanguages"/> -->
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ujjawalsingh25&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude=html,CSS,Jupyter%20Notebook" alt="most-commits-languages" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ujjawalsingh25&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude=html,CSS,Jupyter%20Notebook" alt="most-commits-languages" height="188" />
     <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ujjawalsingh25&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/> -->
 </p>
 
